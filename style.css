@@ -80,5 +80,9 @@ only screen and (min-device-pixel-ratio: 1.5){
     width:100%;
     overflow-x:hidden;
   }
+  .trashtogo{
+    flex-shrink: 3;
+    width: 20px;
+  }
 
 }
